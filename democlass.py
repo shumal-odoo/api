@@ -1,3 +1,3 @@
 Class Binary():
-    def demofun():
+    def demofun(self):
         print("working")
