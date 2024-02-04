@@ -1,4 +1,4 @@
-// powerbi-client v2.21.1
+// powerbi-client v2.21.1.0
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 (function webpackUniversalModuleDefinition(root, factory) {
